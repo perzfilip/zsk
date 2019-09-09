@@ -2,4 +2,6 @@
 
     echo 'działa';
 
+    $imie = 'Filip';
+
 ?>
