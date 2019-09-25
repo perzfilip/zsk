@@ -4,4 +4,6 @@
 
     $imie = 'Filip';
 
+    $name = 'test2';
+
 ?>
